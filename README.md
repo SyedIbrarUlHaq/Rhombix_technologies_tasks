@@ -11,6 +11,6 @@ Data Preprocessing: Filled missing values, encoded categorical features, and dro
 
 Exploratory Data Analysis (EDA): Analyzed survival rates by gender, class, and age.
 
-Modeling: Built a RandomForestClassifier model with accuracy of [add accuracy here].
+Modeling: Built a RandomForestClassifier model with accuracy of: 1.0.
 
 Feature Importance: Key factors identified included gender, class, and age.
