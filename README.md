@@ -1,16 +1,21 @@
 # Rhombix_technologies_tasks
 
-# Titanic Survival Prediction
+# Data Science Internship Tasks
 
-This project predicts Titanic passenger survival using features like socio-economic status, age, and gender. It was developed as part of a data science internship task.
+This repository contains two key tasks from my internship:
 
-# Project Overview
+# Task 1: Titanic Classification
+
+Built a model to predict passenger survival using features like age, gender, and socio-economic status.
+
+Key steps: Data preprocessing, EDA, feature selection, and modeling with RandomForestClassifier.
 
 
-Data Preprocessing: Filled missing values, encoded categorical features, and dropped unnecessary columns.
+# Task 2: Feature Engineering
 
-Exploratory Data Analysis (EDA): Analyzed survival rates by gender, class, and age.
 
-Modeling: Built a RandomForestClassifier model with accuracy of: 1.0.
+Created new features for enhanced predictions, including FamilySize, IsAlone, FarePerPerson, AgeGroup, and Title.
 
-Feature Importance: Key factors identified included gender, class, and age.
+Improved dataset quality and insights for predictive modeling.
+
+
