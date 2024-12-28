@@ -2,7 +2,7 @@
 
 # Data Science Internship Tasks
 
-This repository contains two key tasks from my internship:
+This repository contains three key tasks from my internship:
 
 # Task 1: Titanic Classification
 
